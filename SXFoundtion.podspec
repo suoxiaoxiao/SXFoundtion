@@ -1,3 +1,4 @@
+# coding: utf-8
 #
 # Be sure to run `pod lib lint SXFoundtion.podspec' to ensure this is a
 # valid spec before submitting.
@@ -8,7 +9,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SXFoundtion'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = '工具流体'
 
 # This description is used to generate tags and improve search results.
@@ -32,6 +33,8 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'SXFoundtion/Classes/**/*'
   s.dependency 'SSZipArchive'
+#  s.dependency 'TZImagePickerController'
+  s.dependency 'YYImage'
   
   # s.resource_bundles = {
   #   'SXFoundtion' => ['SXFoundtion/Assets/*.png']
