@@ -9,7 +9,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SXFoundtion'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = '工具流体'
 
 # This description is used to generate tags and improve search results.
@@ -35,6 +35,7 @@ TODO: Add long description of the pod here.
   s.dependency 'SSZipArchive'
 #  s.dependency 'TZImagePickerController'
   s.dependency 'YYImage'
+  s.dependency 'YYText'
   
   # s.resource_bundles = {
   #   'SXFoundtion' => ['SXFoundtion/Assets/*.png']
