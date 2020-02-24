@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'SXFoundtion_Example' do
+  pod 'SXFoundtion', :path => '../'
+
+  target 'SXFoundtion_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
