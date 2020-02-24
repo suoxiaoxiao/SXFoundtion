@@ -1,0 +1,16 @@
+PODS:
+  - SXFoundtion (0.1.0)
+
+DEPENDENCIES:
+  - SXFoundtion (from `../`)
+
+EXTERNAL SOURCES:
+  SXFoundtion:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SXFoundtion: 30050d348c06e79deaa381f7ffc39f968b046920
+
+PODFILE CHECKSUM: 0d154cf05d3a531d1c0041405385852ba1fe88be
+
+COCOAPODS: 1.8.4

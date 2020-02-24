@@ -1,0 +1,6 @@
+framework module SXFoundtion {
+  umbrella header "SXFoundtion-umbrella.h"
+
+  export *
+  module * { export * }
+}

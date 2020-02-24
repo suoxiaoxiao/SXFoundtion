@@ -1,0 +1,22 @@
+{
+  "name": "SXFoundtion",
+  "version": "0.1.0",
+  "summary": "A short description of SXFoundtion.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/suoxiaoxiao/SXFoundtion",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "suoxiaoxiao": "xiaoxiao.suo.ext@ai-ways.com"
+  },
+  "source": {
+    "git": "https://github.com/suoxiaoxiao/SXFoundtion.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SXFoundtion/Classes/**/*"
+}

@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'SXFoundtion'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of SXFoundtion.'
+  s.summary          = '工具流体'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -31,6 +31,7 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'SXFoundtion/Classes/**/*'
+  s.dependency 'SSZipArchive'
   
   # s.resource_bundles = {
   #   'SXFoundtion' => ['SXFoundtion/Assets/*.png']
